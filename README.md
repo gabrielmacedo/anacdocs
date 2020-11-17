@@ -2,7 +2,7 @@
 
 O jeito mais fácil de acessar a regulamentos, instruções e interpretações da ANAC.
 
-## Tabela de conteúdos a serem migrados ##
+## Lista numerada de conteúdos a serem migrados ##
 
  1. Conteúdo 1  
     1.1 Sub-conteúdo 1.1  
