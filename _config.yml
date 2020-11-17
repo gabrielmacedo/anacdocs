@@ -15,10 +15,10 @@ author: Gabriel Macedo
 
 navbar-links:
   Sobre: "Sobre"
-  Índice:
+  Links:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Mais testes: "https://gabrielmacedo.github.io"
+  Outros testes: "https://gabrielmacedo.github.io"
 
 # --- Logo --- #
 
