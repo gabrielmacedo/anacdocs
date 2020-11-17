@@ -14,11 +14,11 @@ author: Gabriel Macedo
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "Sobre"
-  Resources:
+  Sobre: "Sobre"
+  Índice:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://gabrielmacedo.github.io"
+  Mais testes: "https://gabrielmacedo.github.io"
 
 # --- Logo --- #
 
